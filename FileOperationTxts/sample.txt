@@ -1,0 +1,1 @@
+Hello, this text will be written to the file using built-in operations.

@@ -1,0 +1,2 @@
+Hello world!
+Counting characters in this file.
